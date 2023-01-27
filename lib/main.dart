@@ -56,7 +56,7 @@ class _MyAppState extends State<_MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.lightBlue,
+        backgroundColor: Colors.blueAccent,
         title: Text('Quizz', style: TextStyle(color: Colors.white),),
         centerTitle: true,
       ),
